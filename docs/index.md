@@ -24,7 +24,7 @@ Then join the relevant channels on Drupal Slack:
 - [#texas](https://drupal.slack.com/archives/C2V1HFK7G)
 - [#texas-camp](https://drupal.slack.com/archives/C5BM63849)
 
-Please also [fill out our form](https://forms.gle/HDWQmcPZA9h2E6Ht8) to be notified by email of
+Please also [fill out our form](https://eepurl.com/jcxTxg) to be notified by email of
 upcoming Drupal events (in the Texas regions of your choice) and to volunteer to speak at a future event.
 
 Some events are held online, or online and in-person on a case-by-case basis.
